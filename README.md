@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sakshi Pawar
 ====================================================================================================================================
 
-Software Developer
+Project Manager
 ------------------
 
 Motivated Software Developer with a strong foundation in HTML, CSS, JavaScript, and Python. Recently graduated and passionate about learning new technologies, including React and Node.js. Eager to contribute fresh ideas and collaborate in a dynamic development team to deliver impactful solutions.
