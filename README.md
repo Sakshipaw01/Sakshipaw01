@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Project Manager
 ------------------
 
-Motivated Software Developer with a strong foundation in HTML, CSS, JavaScript, and Python. Recently graduated and passionate about learning new technologies, including React and Node.js. Eager to contribute fresh ideas and collaborate in a dynamic development team to deliver impactful solutions.
+IT Project Manager with a strong technical foundation in HTML, CSS, JavaScript, Python, Nuxt.js, and TypeScript. Skilled in coordinating cross-functional teams, managing timelines, and ensuring smooth project delivery. Passionate about leveraging both technical expertise and leadership to drive successful outcomes, with a growing focus on emerging technologies
 
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [MyPortfolio](http://sakshipaw01.github.io/Portfolio/)
